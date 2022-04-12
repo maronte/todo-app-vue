@@ -1,6 +1,11 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a exercise to learn vue.js.
+
+Was developed following the "quick start" and the "tutorial" from "https://vuejs.org/".
+
+This implements a component, events, props, some directives (for, bind and events) and 
+uses the composition API instead options API.
 
 ## Recommended IDE Setup
 
